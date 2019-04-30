@@ -5,7 +5,7 @@ The Mangager application will have the option to view the products for sale, vie
 
 Watch a preview of the Bamazon App!
 
-
+https://drive.google.com/file/d/1wvKfGKS3WVXlYDkxew4W1NUWFiQWuElh/view
 
 
 Packages
